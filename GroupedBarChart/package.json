@@ -1,0 +1,14 @@
+{
+  "name": "264f20c025ca799b",
+  "main": "264f20c025ca799b@242.js",
+  "version": "242.0.0",
+  "homepage": "https://observablehq.com/d/264f20c025ca799b",
+  "author": {
+    "name": "JavaScript Workspace",
+    "url": "https://observablehq.com/@nicoleward-d3practice"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
